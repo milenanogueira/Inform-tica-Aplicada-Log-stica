@@ -25,7 +25,6 @@ Analisar a distribuição dos investimentos captados no estado de São Paulo, id
 ### 📈 Dashboard desenvolvido no Power BI
 <img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/b2114ad4-4539-463b-ad0b-69dbcc496d58" />
 
-![Dashboard de Investimentos](imagens/dashboard-investimentos.png)
 
 ### 🔎 Análises realizadas
 
@@ -52,8 +51,7 @@ Analisar a distribuição dos investimentos captados no estado de São Paulo, id
 Analisar a relação entre a idade média dos homens ao casar (variável independente X) e a idade média das mulheres ao casar (variável dependente Y), utilizando dados disponibilizados pelo SEADE.
 
 ### 📊 Gráfico de dispersão e regressão linear
-
-![Regressão Linear – Nupcialidade](imagens/regressao-nupcialidade.png)
+<img width="1290" height="782" alt="image" src="https://github.com/user-attachments/assets/ccfc9685-7c44-4408-a722-019dd721e59d" />
 
 ### 📐 Resultados do modelo
 
