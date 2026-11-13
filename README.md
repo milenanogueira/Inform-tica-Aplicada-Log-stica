@@ -26,6 +26,12 @@ Analisar a distribuição dos investimentos captados no estado de São Paulo, id
 <img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/b2114ad4-4539-463b-ad0b-69dbcc496d58" />
 
 
+https://github.com/user-attachments/assets/52ea1922-6ace-4945-b765-9f5fb17f70da
+
+
+
+
+
 ### 🔎 Análises realizadas
 
 - **Mapa geográfico:** identificação dos municípios que concentram mais anúncios de investimentos.
