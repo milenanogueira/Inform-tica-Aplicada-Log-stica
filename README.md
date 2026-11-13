@@ -23,6 +23,7 @@ Os projetos envolvem tratamento de dados, visualização de informações, const
 Analisar a distribuição dos investimentos captados no estado de São Paulo, identificando os municípios com maior concentração de anúncios, as empresas envolvidas e os setores econômicos predominantes.
 
 ### 📈 Dashboard desenvolvido no Power BI
+<img width="1440" height="811" alt="image" src="https://github.com/user-attachments/assets/b2114ad4-4539-463b-ad0b-69dbcc496d58" />
 
 ![Dashboard de Investimentos](imagens/dashboard-investimentos.png)
 
