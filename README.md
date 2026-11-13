@@ -9,3 +9,88 @@ A atividade envolveu a elaboração de perguntas e respostas a partir dos dados,
 # Power BI - CNH's emitidas no Vale do Paraíba em Junho de 2026
 Desenvolvimento de uma análise utilizando dados referentes ao número de CNHs emitidas no estado de São Paulo durante junho de 2026. Foram elaboradas perguntas e respostas com base nos dados e desenvolvidos dashboards no Power BI para apresentar os resultados de forma visual e interativa. Nesta atividade, o foco principal da análise foi a região do Vale do Paraíba, explorando os dados disponíveis e buscando identificar padrões e informações relevantes sobre a emissão de CNHs na região.
 <img width="988" height="555" alt="image" src="https://github.com/user-attachments/assets/76a0c378-201d-4c9e-8656-677f6250bcb4" />
+# 📊 Projetos de Análise de Dados – SEADE
+
+Repositório desenvolvido para apresentar atividades de análise de dados utilizando informações disponibilizadas pela Fundação Sistema Estadual de Análise de Dados (SEADE), referentes ao estado de São Paulo.
+
+Os projetos envolvem tratamento de dados, visualização de informações, construção de dashboards e aplicação de técnicas estatísticas.
+
+---
+
+# 📍 1. Dashboard – Investimentos Captados no Estado de São Paulo
+
+### 🎯 Objetivo
+Analisar a distribuição dos investimentos captados no estado de São Paulo, identificando os municípios com maior concentração de anúncios, as empresas envolvidas e os setores econômicos predominantes.
+
+### 📈 Dashboard desenvolvido no Power BI
+
+![Dashboard de Investimentos](imagens/dashboard-investimentos.png)
+
+### 🔎 Análises realizadas
+
+- **Mapa geográfico:** identificação dos municípios que concentram mais anúncios de investimentos.
+- **Investimentos por município:** comparação da quantidade de anúncios entre os municípios.
+- **Empresas com mais investimentos:** identificação das empresas com maior número de registros.
+- **Evolução anual:** análise da variação dos anúncios de investimentos ao longo dos anos.
+- **Setor predominante:** identificação do setor econômico com maior participação nos registros.
+
+### 🛠️ Ferramentas utilizadas
+- Power BI
+- Excel
+- Linguagem DAX
+- Base de dados SEADE
+
+### 📂 Fonte dos dados
+[SEADE – Investimentos Captados](https://repositorio.seade.gov.br/dataset/seade-investimentos)
+
+---
+
+# 💍 2. Regressão Linear Simples – Nupcialidade
+
+### 🎯 Objetivo
+Analisar a relação entre a idade média dos homens ao casar (variável independente X) e a idade média das mulheres ao casar (variável dependente Y), utilizando dados disponibilizados pelo SEADE.
+
+### 📊 Gráfico de dispersão e regressão linear
+
+![Regressão Linear – Nupcialidade](imagens/regressao-nupcialidade.png)
+
+### 📐 Resultados do modelo
+
+**Equação da regressão linear:**
+
+ŷ = 1,0284x − 3,6951
+
+**Coeficiente de determinação (R²):**
+
+0,9384 (93,84%)
+
+### 🔎 Interpretação dos resultados
+
+O modelo apresentou uma relação linear positiva muito forte entre as variáveis analisadas.
+
+O coeficiente de determinação de 0,9384 indica que aproximadamente 93,84% da variação da idade média das mulheres ao casar é explicada pela relação linear com a idade média dos homens ao casar.
+
+Dessa forma, observa-se que, conforme aumenta a idade média dos homens ao se casarem, também tende a aumentar a idade média das mulheres.
+
+### 🛠️ Ferramentas utilizadas
+- Microsoft Excel
+- Gráfico de dispersão
+- Regressão linear simples
+- Análise estatística
+
+### 📂 Fonte dos dados
+[SEADE – Nupcialidade](https://repositorio.seade.gov.br/dataset/seade-nupcialidade)
+
+---
+
+# 🎓 Considerações finais
+
+Os projetos permitiram desenvolver conhecimentos em análise e interpretação de dados, construção de visualizações interativas e aplicação de métodos estatísticos.
+
+Por meio do Power BI e do Excel, foi possível transformar bases de dados em informações visuais, facilitando a compreensão dos fenômenos econômicos e sociais do estado de São Paulo.
+
+---
+
+**Tecnologias:** Power BI | Microsoft Excel | DAX | Análise de Dados
+
+**Fonte dos dados:** Fundação SEADE – Sistema Estadual de Análise de Dados.
